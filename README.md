@@ -5,6 +5,7 @@
 ## Available for:
 
 [Sublime Text](https://github.com/ginfuru/Sublime-BlackRain)
+[ZSH](https://github.com/ginfuru/ZSH-BlackRain)
 
 #### Why BlackRain
 Because Michael Douglas has flow 
